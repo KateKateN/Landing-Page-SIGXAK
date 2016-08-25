@@ -156,6 +156,7 @@ h3{
  	display: flex;
 
 	-webkit-flex-wrap: wrap;
+	-moz-flex-wrap;
     -ms-flex-wrap: wrap;
 	flex-wrap: wrap;
 
@@ -392,6 +393,7 @@ div.blog-items{
 	display: inline-flex;
 
 	-webkit-flex-wrap: wrap;
+	-moz-flex-wrap;
     -ms-flex-wrap: wrap;
 	flex-wrap: wrap;
 
