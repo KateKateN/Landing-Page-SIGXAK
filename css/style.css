@@ -156,7 +156,7 @@ h3{
  	display: flex;
 
 	-webkit-flex-wrap: wrap;
-    -ms-flex-wrap: wrap;;
+    -ms-flex-wrap: wrap;
 	flex-wrap: wrap;
 
  	width: 85%;
