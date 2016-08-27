@@ -447,9 +447,8 @@ div.blog-items{
 	padding-bottom: 100px;
 }
 
-.map{
-	margin-top: 100px;
-	overflow: hidden;
+.contact-us iframe {
+  width: 100%;
 }
 
 .contact-form{
